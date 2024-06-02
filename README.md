@@ -1,6 +1,6 @@
 # homebrew-password
 
-An on-device CLI random password generator.
+A CLI random password generator.
 
 ### Logic
 
@@ -19,7 +19,9 @@ Returns a 16-character long string using _at least_ one character from each grou
 password [4-64]
 ```
 
-## Installation
+### macOS/Linux
+
+Install the [Homebrew](https://brew.sh) package manager.
 
 ```
 brew tap egor-kouchnarev/tap

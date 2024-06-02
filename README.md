@@ -1,6 +1,6 @@
 # homebrew-password
 
-A CLI random password generator.
+A command-line random password generator.
 
 ### Logic
 

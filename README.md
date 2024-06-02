@@ -21,7 +21,8 @@ password [4-64]
 
 ### macOS/Linux
 
-Install the [Homebrew](https://brew.sh) package manager.
+1. Install the [Homebrew](https://brew.sh) package manager.
+2. Add my repository and install the package:
 
 ```
 brew tap egor-kouchnarev/tap

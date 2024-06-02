@@ -1,10 +1,10 @@
 # homebrew-password
 
-A command-line random password generator.
+An on-device, command-line random password generator.
 
 ### Logic
 
-Returns a 16-character long string using _at least_ one character from each group. Accepts an optional length argument within the range of 4 to 64.
+Returns a 16-character string with _at least_ one character from each group. Accepts an optional length argument within the range of 4 to 64.
 
 | Group | Characters |
 | :--- | :--- |
